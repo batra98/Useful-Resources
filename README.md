@@ -1,24 +1,25 @@
-## Useful-Resources for Placement 2020
+## Useful Resources for Placement 2020
 A to-do list of programing and non-programing topics to study.
 
 ---
 
-### Competitve programming related topics
+### CP related topics
 
-#### Algorithm Complexity analysis
+#### Complexity analysis
 - [Cheat Sheet](https://www.bigocheatsheet.com/)
 
-#### Data-Structures
+#### Data Structures
 - Arrays
 - Linked Lists
 - Stack
 - Queue
 
-#### Advanced Data-Structures
+#### Advanced Data Structures
 - Hash Table [unordered set,map in C++]
 
 #### Search
-- Binary search
+- Binary search [upper_bound(), lower_bound(), binary_search() in C++]
+- Binary search on solution
 - Ternary search
 
 #### Bit-wise Operators
@@ -27,25 +28,48 @@ A to-do list of programing and non-programing topics to study.
 - Binary Search Trees (BSTs).
 - Heap
 - Trie
+- Segment Trees
+
+#### Tree Algorithms
+- DFS
+- BFS
+- Toposort
+- Connected components
 
 #### Sorting
+- inversion count
+- comparison between differetn algos
 
 #### Recursion
 
-#### Dynamic Progamming
+#### DP
+- 01 knapsack
+- coin change
+- edit distance
+- LIS
+- LCS
 
-#### String Searching and Manipulation
+#### Strings
+- Palindrome problems
 
-#### Combinatorics.
+#### Number Theory
+- GCD
+- Prime factorization
+- Prime sieve
+- FEP
+- modular operations
+- Fibonacci series
+- Combinatorics
 
 #### CP Theoretical
-- NP, NP-Complete and Approximate Algorithms.
+- NP, NP-Complete
+- Approximate Algorithms
 
 ---
 
-### Non-Competitve programming related topics
+### Non CP related topics
 
-#### Object-Oriented Programming.
+#### Object-Oriented Programming
 
 #### Operating System
 - Cache
@@ -53,11 +77,13 @@ A to-do list of programing and non-programing topics to study.
 - Scheduling
 - Endianess
 
-#### Computer Networks.
+#### Computer Networks
 
 #### Unix Command line tools
 
-#### Distributed Systems and Databases.
+#### Distributed Systems
+
+#### DatabaseSystems
 
 ---
 
