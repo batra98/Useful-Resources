@@ -1,6 +1,8 @@
 ## Useful-Resources for Placement 2020
 A to-do list of programing and non-programing topics to study.
 
+---
+
 ### Competitve programming related topics
 
 #### Algorithm Complexity analysis
@@ -38,7 +40,7 @@ A to-do list of programing and non-programing topics to study.
 
 #### NP, NP-Complete and Approximate Algorithms.
 
-
+---
 
 ### Non-Competitve programming related topics
 
@@ -55,3 +57,9 @@ A to-do list of programing and non-programing topics to study.
 #### Unix Command line tools
 
 #### Distributed Systems and Databases.
+
+---
+
+### Previous Year
+
+---
