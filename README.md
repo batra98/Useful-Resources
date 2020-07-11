@@ -60,6 +60,7 @@ A to-do list of programing and non-programing topics to study.
 - modular operations
 - Fibonacci series
 - Combinatorics
+- Probability [Specific to finance companies]
 
 #### CP Theoretical
 - NP, NP-Complete
@@ -83,7 +84,7 @@ A to-do list of programing and non-programing topics to study.
 
 #### Distributed Systems
 
-#### DatabaseSystems
+#### Database Systems
 
 ---
 
