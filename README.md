@@ -100,6 +100,11 @@ A to-do list of programing and non-programing topics to study.
 
 ---
 
+### HR Questions
+- Tell me about yourself
+
+---
+
 ### Previous Year
 
 ---
