@@ -38,7 +38,8 @@ A to-do list of programing and non-programing topics to study.
 
 #### Combinatorics.
 
-#### NP, NP-Complete and Approximate Algorithms.
+#### CP Theoretical
+- NP, NP-Complete and Approximate Algorithms.
 
 ---
 
