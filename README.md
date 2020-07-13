@@ -57,6 +57,7 @@ A to-do list of programing and non-programing topics to study.
 - LIS
 - LCS
 - max subarray
+  - [Kadane's Algorithm - Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 
 #### Strings
 - Palindrome problems
