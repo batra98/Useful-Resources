@@ -81,6 +81,9 @@ A to-do list of programing and non-programing topics to study.
 - NP, NP-Complete
 - Approximate Algorithms
 
+### Miscellaneous
+- [Atcoder Alsing D - Maths](https://atcoder.jp/contests/aising2020/tasks/aising2020_d)
+
 ---
 
 ### Non CP related topics
