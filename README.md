@@ -35,15 +35,16 @@ A to-do list of programing and non-programing topics to study.
 - Segment Trees
 - AVL [theory]
 
-#### Tree Algorithms
+#### Graph Algorithms
 - DFS
 - BFS
+  - [BFS/Djikstras](https://leetcode.com/problems/path-with-maximum-probability/)
 - Toposort
 - Connected components
 
 #### Sorting
 - inversion count
-- comparison between differetn algos
+- comparison between different algos
 - custom sort in C++
 
 #### Recursion
@@ -84,6 +85,7 @@ A to-do list of programing and non-programing topics to study.
 
 ### Miscellaneous
 - [Atcoder Alsing D - Maths](https://atcoder.jp/contests/aising2020/tasks/aising2020_d)
+- [Recursion Tree](https://leetcode.com/problems/reaching-points/)
 
 ---
 
