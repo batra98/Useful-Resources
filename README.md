@@ -12,6 +12,7 @@ A to-do list of programing and non-programing topics to study.
 - Arrays
 - Linked Lists
 - Stack
+  - [Nearest Smallest number on left](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/)
 - Queue
 
 #### Advanced Data Structures
@@ -27,6 +28,8 @@ A to-do list of programing and non-programing topics to study.
 
 #### Bit Operations
 - Bitmasking
+- Bitwise Operations
+  - [AND in l to r](https://leetcode.com/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target/).
 
 #### Trees & Graphs
 - Binary Search Trees (BSTs).
@@ -62,6 +65,7 @@ A to-do list of programing and non-programing topics to study.
 
 #### Strings
 - Palindrome problems
+  -[Longest Panlindromic Substring](https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/?ref=rp).
 
 #### Number Theory
 - GCD
@@ -86,6 +90,7 @@ A to-do list of programing and non-programing topics to study.
 ### Miscellaneous
 - [Atcoder Alsing D - Maths](https://atcoder.jp/contests/aising2020/tasks/aising2020_d)
 - [Recursion Tree](https://leetcode.com/problems/reaching-points/)
+- [Partition into K equal sum subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/).
 
 ---
 
