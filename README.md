@@ -35,6 +35,7 @@ A to-do list of programing and non-programing topics to study.
 - Binary Search Trees (BSTs).
 - Heap
 - Trie
+ - [Pair with Minimum Xor](https://www.geeksforgeeks.org/minimum-xor-value-pair/).
 - Segment Trees
 - AVL [theory]
 
