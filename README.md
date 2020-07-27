@@ -42,8 +42,10 @@ A to-do list of programing and non-programing topics to study.
 - DFS
 - BFS
   - [BFS/Djikstras](https://leetcode.com/problems/path-with-maximum-probability/)
+  - [BFS](https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/)
 - Toposort
 - Connected components
+- [Lowest Common Ancestor](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/).
 
 #### Sorting
 - inversion count
@@ -91,6 +93,7 @@ A to-do list of programing and non-programing topics to study.
 - [Atcoder Alsing D - Maths](https://atcoder.jp/contests/aising2020/tasks/aising2020_d)
 - [Recursion Tree](https://leetcode.com/problems/reaching-points/)
 - [Partition into K equal sum subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/).
+- https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/.
 
 ---
 
