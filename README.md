@@ -100,6 +100,24 @@ A to-do list of programing and non-programing topics to study.
 
 ### Non CP related topics
 
+### Javascript
+- callbacks
+- promise
+- event loop
+- closure
+- async-await
+- generators
+- prototypes - methods
+- prototype Inheritance
+- event bubbling
+- sets
+- local storage and cache
+- Array functions - reduce
+- call, apply, bind
+- XMLHTTPRequest | Ajax
+- binding - new, explicit, implicit
+- web APIs
+
 #### Object-Oriented Programming
 
 #### Operating System
