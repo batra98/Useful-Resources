@@ -1,0 +1,44 @@
+TYPES
+-----
+
+set
+unordered set [implemented using hashing]
+multi set [multiple values allowed]
+unordered multi set
+set with custom compare function
+
+map
+unordered map
+multi map
+unordered multi map
+map with custom compare function
+
+
+THEORY
+------
+
+|SET|
+
+- Set is a red black tree which is a bst of logn height(self balancing bst)
+- Set can add, remove and check the presence of particular element in O(log N)
+  where N is the count of objects in the set.
+- While adding elements to set, the duplicates are discarded.
+- A count of the elements in the set,N, is returned in O(1).
+- The push_back() member may not be used with set. It make sense: since the order of
+  elements in set does matter, push_back() is not applicable here.
+- Since set is not a linear container, it’s impossible to take the element in set
+  by index. Therefore, the only way to traverse the elements of set is to use iterators.
+
+
+|MULTISET|
+
+- Set implemented using hash tables
+- All log(N) operations in set can be done in O(1)
+- But in worst case may take O(N) 
+
+
+|MAP|
+
+- Maps are associative containers that store elements in a mapped fashion.
+- Each element has a key value and a mapped value.
+- No two mapped values can have same key values.
