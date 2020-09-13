@@ -58,13 +58,20 @@ A to-do list of programing and non-programing topics to study.
 #### Hashing
 
 #### DP
-- 01 knapsack
-- coin change
-- edit distance
-- LIS
-- LCS
-- max subarray
-  - [Kadane's Algorithm - Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+  - knapsack
+    - **[01 knapsack](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_01_knapsack.htm)**
+    - fractional knapsack (greedy by sorting based on value/weight ratio)
+  - LIS
+  - coin change
+  - edit distance
+  - subset sum (similar to knapsack and coin change)
+  - minsum partition
+  - longest common subsequence
+  - **[longest common substring](https://www.geeksforgeeks.org/longest-common-substring-dp-29/)**
+  - longest pailndromic subsequence
+  - longest palindromic substring
+  - PRINTING DP
+  - **[max subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)**
 
 #### Strings
 - Palindrome problems
