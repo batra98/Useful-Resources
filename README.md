@@ -40,13 +40,37 @@ A to-do list of programing and non-programing topics to study.
 - AVL [theory]
 
 #### Graph Algorithms
-- DFS
-- BFS
-  - [BFS/Djikstras](https://leetcode.com/problems/path-with-maximum-probability/)
-  - [BFS](https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/)
-- Toposort
-- Connected components
-- [Lowest Common Ancestor](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/).
+  - **[DFS](https://cp-algorithms.com/graph/depth-first-search.html)**
+    - lexicographic shortest path
+    - topological sorting
+    - **[components](https://stackoverflow.com/questions/31137543/how-many-components-in-a-directed-graph)**
+  - **[BFS](https://cp-algorithms.com/graph/breadth-first-search.html)**
+    - shortest paths in unweighted or weighted with constraints
+  - cycle detection
+    - directed graph
+    - undirected graph
+  - tree specific (tree is always undirected)
+    - ONLY 1 PATH between two nodes
+    - LCA [used to find distance between two nodes]
+      - Naive O(N)
+      - Using euler tour
+      - Lec: 18 class notes
+  - shortest paths (SSSP)
+    - topo sort approach in DAG
+    - **[bellman ford](https://cp-algorithms.com/graph/bellman_ford.html)**
+      - identify negative weight cycle (reachable from source)
+      - SSSP for any general graph
+    - dijkstra
+  - spanning trees (for weighted connected undirected graph)
+    - cycle and cut property
+    - prim's algorithm (selects vertices in mst)
+    - **[prim O(N^2) modification for dense graph](https://cp-algorithms.com/graph/mst_prim.html#toc-tgt-4)**
+    - kruskal's algorithm (selects edges in mst)
+    - DSU
+  - shortest paths (APSP)
+    - repeated squaring (V^3logV)
+    - floyd warshall (V^3)
+    - johnsons algorithm (V(V+E)logV)
 
 #### Sorting
 - inversion count
